@@ -1,8 +1,10 @@
 # imdb_top_10
 
-A new Flutter project.
+IMDB Top 10 List Project. Used ListView and Cart widgets.
 
-## Getting Started
+## Getting Started!
+
+
 
 This project is a starting point for a Flutter application.
 
